@@ -40,7 +40,7 @@ def interact_with_page():
                 WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "number")))
 
                 # Find and interact with the input fields
-                driver.find_element(By.ID, "number").send_keys("190529") # replace it to your tawjihi ID <-----------
+                driver.find_element(By.ID, "number").send_keys("123456") # replace it to your tawjihi ID <-----------
 
                 # Select the day
                 day_input = driver.find_element(By.ID, "day")
