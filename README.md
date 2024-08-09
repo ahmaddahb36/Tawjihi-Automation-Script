@@ -8,7 +8,7 @@ This script automates the process of entering student information on the Tawjihi
 - **Website Availability Check**: Periodically sends requests to check if the Tawjihi website is online.
 - **Sound Notification**: Plays a sound when the website becomes accessible.
 - **Screenshot Capture**: After entering the student's information, the script captures a screenshot of the results and saves it to a specified location.
-
+- **For tawjihi.jo**
 ## Installation
 
 To use this script, you need to have Python installed on your system along with the following packages:
