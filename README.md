@@ -5,7 +5,7 @@ This script automates the process of entering student information on the Tawjihi
 
 ## Demo Video
 
-[![Watch the video](https://i9.ytimg.com/vi/f87ICKWQuZo/mqdefault.jpg?v=66b6ae31&sqp=CKzd2rUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCz0KJoCF096p3BbEdRSdVYWTBHfQ)](https://youtu.be/f87ICKWQuZo)
+[![Watch the video](https://github.com/ahmaddahb36/Tawjihi-Automation-Script/blob/bca9c427b67a417614a0380b9b92a5d01f128723/Image.jpg)](https://youtu.be/f87ICKWQuZo)
 
 
 ## Features
